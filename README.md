@@ -6,8 +6,8 @@ Welcome to my GitHub profile!
 Experienced Full-Stack Developer with expertise in JavaScript, Python, React, Redux, Express.js, Ruby on Rails, GraphQL, Apollo, Emotion, MongoDB, and PostgreSQL. I thrive on challenges, excel at problem-solving, and am dedicated to continuous learning. Let's connect to explore collaboration opportunities!
 
 ## 📫 How to reach me
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://linkedin.com/in/your-linkedin)
+- [Email](mailto:erdo.shazy123@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/erdoan-ed-shaziman-0533611b9/)
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?logo=javascript)
