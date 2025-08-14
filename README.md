@@ -1,4 +1,4 @@
-# Hi, I'm Shazy 👋
+# Hi, I'm Ed 👋
 
 Welcome to my GitHub profile!
 
